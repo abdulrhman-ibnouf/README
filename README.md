@@ -6,7 +6,7 @@ I'm a passionate software developer with a keen interest in web development, ope
 
 - 🔭 I’m currently working on various web development projects.
 - 🌱 I’m constantly learning and exploring new technologies in the web development space.
-- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
+- 🤝 I’m looking to collaborate on open-source projects and innovative web applications.
 - 💬 Ask me about anything related to web development, JavaScript, and open-source.
 - 📫 How to reach me: [x5ibnouf@gmail.com](mailto:x5ibnouf@gmail.com)
 - ⚡ Fun fact: I love solving puzzles, playing MBLL and playing chess in my free time.
